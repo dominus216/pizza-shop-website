@@ -4,6 +4,10 @@ app = Flask(__name__)
 
 @app.route("/")
 def main_page():
+    """
+    тестовая функция для обработки корневого маршрута
+    :return:
+    """
     return render_template("index.html")
 
 
