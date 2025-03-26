@@ -125,3 +125,104 @@ a{
 
     color:black;
 }
+.menu-write{
+
+    color:black;
+    font-size:48px;
+    font-weight:700px;
+    line-height:58px;
+    margin-right:1050px;
+    text-transform:uppercase;
+    margin-bottom:50px;
+    margin-top:50px;
+    text-align:center;
+
+
+}
+
+.pizza-slots{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap;
+    position:absolute;
+
+}
+
+.pizza{
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    width: 250px;
+    height:auto;
+}
+
+.price-and-weight{
+    display:flex
+
+
+}
+
+.pizza-image{
+    display:flex;
+    height:290px;
+    width:265px;
+
+}
+
+.pizza-name{
+
+    font-weight:500px;
+    font-size:20px;
+    line-height: 1.5;
+}
+
+.stracture{
+
+    color: #783d0d;
+    font-size: 15px;
+    font-weight: 400;
+    margin-right:10px;
+    margin-bottom:15px;
+    margin-top:15px;
+}
+
+.pizza-price{
+
+    color:black;
+    font-size:21px;
+
+}
+
+
+.pizza-weight{
+
+    color:gray;
+    margin-left:30px;
+    margin-bottom:25px;
+}
+
+.button-pizza{
+    background: brown;
+    color: white;
+    padding-left:75px;
+    padding-right:75px;
+    padding-top:15px;
+    padding-bottom:15px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+
+
+
+
+}
+
+.pizza-button{
+
+    margin-bottom:15px;
+    margin-top:5px;
+}
