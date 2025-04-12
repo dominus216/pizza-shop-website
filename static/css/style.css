@@ -131,11 +131,10 @@ a{
     font-size:48px;
     font-weight:700px;
     line-height:58px;
-    margin-right:1050px;
     text-transform:uppercase;
     margin-bottom:50px;
     margin-top:50px;
-    text-align:center;
+
 
 
 }
@@ -268,6 +267,11 @@ a{
 }
 
 
-
+.pizza-root{
+    width:100%;
+    height:auto;
+    padding-left:100px;
+    padding-right:100px;
+}
 
 
