@@ -267,19 +267,7 @@ header{
     margin-bottom:82px;
 }
 
-.hachapuri{
 
-
-
-
-}
-
-
-.hachapuri-write{
-
-
-
-}
 
 
 .pizza-root{
@@ -293,5 +281,87 @@ header{
 
 
 }
+
+.hachapuri-slots{
+
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap;
+    width:1280px;
+
+
+
+
+}
+
+
+.hachapuri-write{
+
+    color:black;
+    font-size:48px;
+    font-weight:700px;
+    line-height:58px;
+    text-transform:uppercase;
+    margin-bottom:50px;
+    margin-top:50px;
+
+}
+
+
+.hachapuri{
+
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    width: 250px;
+    height:auto;
+
+}
+
+.hachapuri-image{
+    display:flex;
+    height:290px;
+    width:265px;
+}
+
+.hachapuri-name{
+
+    font-weight:500px;
+    font-size:20px;
+    line-height: 1.5;
+}
+
+.hachapuri-weight{
+
+
+    color:gray;
+    margin-left:30px;
+    margin-bottom:25px;
+
+}
+
+.hachapuri-root{
+
+
+    width:auto;
+    height:auto;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding-left:140px;
+    padding-right:50px;
+
+
+}
+
+
+
+
+
+
 
 
