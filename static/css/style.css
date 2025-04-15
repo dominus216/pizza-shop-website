@@ -4,6 +4,12 @@ a{
     color:black;
 }
 
+.root{
+
+
+
+
+}
 
 
 .header-header{
@@ -12,6 +18,14 @@ a{
     align-items: center;
     background-color: #f5f3ee;
     padding: 15px 30px;
+
+}
+
+header{
+
+
+
+
 
 }
 
@@ -145,6 +159,7 @@ a{
     gap: 20px;
     padding: 20px;
     flex-wrap: wrap;
+    width:1280px;
 
 
 }
@@ -252,7 +267,7 @@ a{
     margin-bottom:82px;
 }
 
-.hachapori{
+.hachapuri{
 
 
 
@@ -270,8 +285,13 @@ a{
 .pizza-root{
     width:auto;
     height:auto;
-    padding-left:100px;
-    padding-right:100px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding-left:140px;
+    padding-right:50px;
+
+
 }
 
 
